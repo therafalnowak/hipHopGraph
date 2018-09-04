@@ -10,4 +10,5 @@ A high level summary of this work can be found in the ppt pdf above, and full an
 The original idea and analysis here is based on the pudding.cool article called The Language of Hip Hop.
 
 Don't hesitate to reach out with questions and enjoy the work!
+
 therafalnowak@gmail.com
