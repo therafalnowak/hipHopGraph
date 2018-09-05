@@ -12,4 +12,5 @@ The original idea and analysis here is based on the pudding.cool article called 
 Don't hesitate to reach out with questions and enjoy the work!
 
 // Rafal Nowak
+
 // therafalnowak@gmail.com
